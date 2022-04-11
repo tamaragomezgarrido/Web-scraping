@@ -5,11 +5,11 @@ import re
 def extraer_numero(celda):
     m = re.match(r'-?\d+\.?\d*', celda)
     if m:
-      # Si hubo coincidencia, m.group() devuelve el texto que coincidió
-      # Basta convertirlo en entero
+      # Si hay coincidencia m.group() devuelve el texto que coincide
+      # Convertirlo en entero
         return float(m.group())
     else:
-      # Si no hubo coincidencia (lo que ocurre también en celdas vacías)
+      # Si no hay coincidencia (lo que ocurre también en celdas vacías)
       # el valor a retornar es cero
         return 0
 
