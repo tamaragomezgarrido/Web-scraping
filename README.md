@@ -27,7 +27,7 @@ La información se almacena en las siguientes variables:
 **marea baja**: hora de bajamar.  
 **temperatura mar**: temperatura del mar.  
   
-Se proporciona esta información para los siguientes 7 días desde la fecha de descarga de la información, en diferentes tramos horarios para cada día.
+Se proporciona esta información para los siguientes 12 días desde la fecha de descarga de la información, en diferentes tramos horarios para cada día.
 Puesto que las previsiones tanto meteorológicas como de oleaje son muy cambiantes, se recomienda recoger la información cada día, sustituyendo los valores de cada celda por su nuevo valor, de forma que los datos se almacenen con los valores más fiables posibles para su posterior análisis.
 
 ### Gráfica del dataset:  
