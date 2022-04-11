@@ -150,5 +150,5 @@ for i in range(len(momento)):
     
 dataset = {'mes':month,'dia':dia2,'tramo':momento, 'olas(m/direccion)':olas, 'periodo':periodo, 'energia':energia, 'viento(velocidad/direccion)':viento, 'estado viento':direccion_viento, 'marea_alta':marea_alta, 'marea_baja': marea_baja}
 dataframe = pd.DataFrame(dataset)
-dataframe.to_csv('previson_olas_pantin.csv')
+dataframe.to_csv('prevision_olas_pantin.csv')
 
