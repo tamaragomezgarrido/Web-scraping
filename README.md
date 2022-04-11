@@ -28,12 +28,19 @@ La información se almacena en las siguientes variables:
 **temperatura mar**: temperatura del mar.  
   
 Se proporciona esta información para los siguientes 7 días desde la fecha de descarga de la información, en diferentes tramos horarios para cada día.
-Puesto que las previsiones tanto meteorológicas como de oleaje son muy cambiantes, se recomienda recoger la información cada día a las 00:00, sustituyendo los valores de cada celda por su nuevo valor, de forma que los datos se almacenen con los valores más fiables posibles para su posterior análisis.
+Puesto que las previsiones tanto meteorológicas como de oleaje son muy cambiantes, se recomienda recoger la información cada día, sustituyendo los valores de cada celda por su nuevo valor, de forma que los datos se almacenen con los valores más fiables posibles para su posterior análisis.
 
-Gráfica del dataset:
+### Gráfica del dataset:  
+
+![Altura olas Pantin](https://user-images.githubusercontent.com/103389685/162781425-f4ed0086-f62f-4808-bbc1-7932133e5dd8.jpg)
+
+
+La gráfica muestra la evolución de la altura de las olas para los días de la previsión.  
+El código utilizado para la creación de la gráfica se adjunta en el script 'grafica_olas_pantin.py'.  
 
 ### Agradecimientos:  
-El propietario de los datos es surf-forecast.com, registrado en la dirección Meteo365.com Unit 1 Link Trade Park, Llandough, CF11 8TQ. No se han encontrado estudios similares al propuesto.  
+El propietario de los datos es surf-forecast.com, registrado en la dirección Meteo365.com Unit 1 Link Trade Park, Llandough, CF11 8TQ.  
+No se han encontrado estudios similares al propuesto.  
 
 Se han encontrado algunos estudios sobre los condicionantes para la formación de una ola, o  los efectos del nivel del oleaje y la velocidad del viento en la atenuación de la señal en las comunicaciones.  
 
@@ -50,7 +57,8 @@ Además, la información rastreada es pública, es decir, no se han tenido que a
 ### Inspiración:  
 El surf es un deporte que está en auge. Puede ser un reclamo para atraer turismo a ciertas zonas, en este caso la zona de Ferrol en Galicia, por lo que estudiando los datos sobre previsiones se puede determinar cuales son las mejores condiciones para la práctica de surf en esta playa, las épocas del año que tienen unas mejores condiciones de forma histórica, y además, estudiar cómo afectan los cambios del entorno geográfico a las mareas y olas.  
 
-Este estudio se puede extrapolar a cualquier spot de interés.  Es interesante el estudio de los cambios en las mareas y tipología de las olas tras cambios por la actuación del hombre en emplazamientos cercanos, para tenerlo en cuenta como un indicador del impacto ambiental que provocan ciertas acciones, y cruzarlo con otros estudios para tener una visión más general sobre el impacto ambiental.    
+Este estudio se puede extrapolar a cualquier spot de interés.  
+Es interesante el estudio de los cambios en las mareas y tipología de las olas tras cambios por la actuación del hombre en emplazamientos cercanos, para tenerlo en cuenta como un indicador del impacto ambiental que provocan ciertas acciones, y cruzarlo con otros estudios para tener una visión más general sobre el impacto ambiental.  
 
 ### Licencia:  
 Released Under CC BY-SA 4.0 License.  
