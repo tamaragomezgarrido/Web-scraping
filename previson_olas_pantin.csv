@@ -1,0 +1,37 @@
+,mes,dia,tramo,olas(m/direccion),periodo,energia,viento(velocidad/direccion),estado viento,marea_alta,marea_baja
+0,4,lunes11,mañana,2.2W,17,2734,20S,cross-off,1:55PM2.33,
+1,4,lunes11,tarde,3.5W,15,5990,15S,cross-off,,7:57PM1.19
+2,4,lunes11,noche,3W,14,3448,25SSW,cross-off,2:13AM2.60,
+3,4,martes12,mañana,3W,14,3827,25SSW,cross-off,,8:36AM 0.95 
+4,4,martes12,tarde,3W,13,2972,20WSW,cross,2:46PM 2.57 ,
+5,4,martes12,noche,2.5W,12,1989,20S,cross-off,2:59AM2.86,8:47PM 0.95 
+6,4,miércoles13,mañana,2.5WNW,11,1348,10SW,cross-off,,9:17AM 0.68 
+7,4,miércoles13,tarde,2WNW,10,742,10NE,cross,3:26PM 2.83 ,
+8,4,miércoles13,noche,1.5WNW,9,344,15E,cross-off,3:37AM3.13,9:27PM 0.69 
+9,4,jueves14,mañana,1.1WNW,9,189,10ENE,cross-off,,9:53AM 0.41 
+10,4,jueves14,tarde,1W,8,137,15NE,cross,4:02PM 3.09 ,
+11,4,jueves14,noche,0.7WNW,13,165,15ENE,cross-off,4:13AM3.37,10:04PM 0.45 
+12,4,viernes15,mañana,2.1WNW,12,1272,15ENE,cross-off,,10:27AM 0.18 
+13,4,viernes15,tarde,1.9WNW,12,1029,25ENE,cross-off,4:36PM 3.32 ,
+14,4,viernes15,noche,1.8W,12,864,10E,cross-off,4:49AM3.56,10:40PM 0.23 
+15,4,sábado16,mañana,1.7W,12,841,0NW,glass,,11:02AM0.01
+16,4,sábado16,tarde,1.8W,13,1087,10NE,cross,5:11PM3.50,
+17,4,sábado16,noche,2W,13,1293,15ENE,cross-off,,11:17PM 0.07 
+18,4,domingo17,mañana,2W,13,1258,25ENE,cross-off,5:26AM 3.67 ,11:38AM-0.08
+19,4,domingo17,tarde,1.9W,13,1154,30NE,cross,5:48PM3.60,
+20,4,domingo17,noche,1.6W,12,714,25ENE,cross-off,,11:55PM -0.02 
+21,4,lunes18,mañana,1.7WNW,11,705,25ENE,cross-off,6:05AM 3.68 ,12:16PM-0.06
+22,4,lunes18,tarde,1.7WNW,11,668,30NE,cross,6:26PM3.62,
+23,4,lunes18,noche,2.5WNW,11,1490,30NE,cross-off,,12:35AM -0.01 
+24,4,martes19,mañana,2.5NW,11,1592,30ENE,cross-off,6:46AM 3.59 ,12:56PM0.06
+25,4,martes19,tarde,3.5NW,12,3274,35NE,cross,7:06PM3.54,
+26,4,martes19,noche,2.5NW,11,1567,30NE,cross,,1:19AM 0.09 
+27,4,miércoles20,mañana,2.1NW,10,900,20NNE,cross,7:30AM 3.39 ,1:39PM0.27
+28,4,miércoles20,tarde,1.8NW,9,542,20NNE,cross,7:51PM3.37,
+29,4,miércoles20,noche,2.1NNW,8,601,0NW,glass,,2:08AM0.29
+30,4,jueves21,mañana,2.1NNW,8,560,15SW,cross,8:20AM 3.12 ,
+31,4,jueves21,tarde,1.9NNW,8,419,20WNW,cross-on,,2:28PM 0.53 
+32,4,jueves21,noche,1.2NW,7,160,20W,cross-on,8:43PM 3.15 ,3:05AM0.53
+33,4,viernes22,mañana,1.3N,7,157,20SSW,cross-off,9:20AM 2.83 ,
+34,4,viernes22,tarde,1.2N,7,128,15NNW,cross-on,,3:27PM 0.80 
+35,4,viernes22,noche,0.7WNW,9,71,10NW,on,9:47PM 2.92 ,4:18AM0.76
